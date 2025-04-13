@@ -1,0 +1,11 @@
+Design the UI with:
+
+QLineEdit: titleEdit (for task title)
+
+QPlainTextEdit: descriptionEdit (for task description)
+
+QLineEdit: dueDateEdit (for due date)
+
+QPushButton: addButton, deleteButton
+
+QListWidget: taskList
